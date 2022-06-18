@@ -1,0 +1,58 @@
+{
+  "date": [
+    {
+      "name": "Yesterday",
+      "names": [
+        "Pret A Manger",
+        "Darren Hodgkin",
+        "McDonalds",
+        "Starbucks",
+        "Dave Winklevoss"
+      ],
+      "icons": [
+        "assets/pret_a_manager.webp",
+        "assets/darren.webp",
+        "assets/mcdonalds.webp",
+        "assets/starbucks.webp",
+        "assets/right_arrow.webp"
+      ],
+      "cashes": [
+        "- $55.31 USD",
+        "+ $130.31 USD",
+        "- $55.31 USD",
+        "- $55.31 USD",
+        "- $300.00 USD"
+      ]
+    },
+    {
+      "name": "Sat, Dec 11",
+      "names": [
+        "Virgin Megastore",
+        "Nike"
+      ],
+      "icons": [
+        "assets/virgin.webp",
+        "assets/nike.webp"
+      ],
+      "cashes": [
+        "- $500.31 USD",
+        "- $500.31 USD"
+      ]
+    },
+    {
+      "name": "Thurs, Dec 9",
+      "names": [
+        "Louis Vuitton",
+        "Carrefour"
+      ],
+      "icons": [
+        "assets/louis_vuitton.webp",
+        "assets/carrefour.webp"
+      ],
+      "cashes": [
+        "- $500.31 USD",
+        "- $500.31 USD"
+      ]
+    }
+  ]
+}
